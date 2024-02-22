@@ -1,0 +1,14 @@
+.navigation {
+
+    &__list {
+        display: flex;
+        align-items: center;
+        gap: 32px;
+    }
+}
+
+.mode_icon {
+    width: 24px !important;
+    height: 24px !important;
+    background-color: var(--primary-color);
+}
